@@ -1,0 +1,66 @@
+{% include base_path %}
+
+<meta charset="utf-8">
+
+<link rel="icon" type="image/png" href="{{ base_path }}/images/android-chrome-512x512.png">
+
+{% include seo.html %}
+
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+
+<style>
+  body, h1, h2, h3, h4, h5, h6, p, div, span, li, a {
+    font-family: "DengXian", "等线", "PingFang SC", "Heiti SC", "Microsoft YaHei", sans-serif !important;
+  }
+</style>
+
+<style>
+  /* Default size is usually 16px. We will set it to 14px. */
+  html, body {
+    font-size: 16px !important; 
+  }
+  
+  /* Optional: Make the big headers (H1, H2) smaller too */
+  h1, h2, h3 {
+    font-size: 90% !important; /* Shrinks headers by 10% */
+  }
+</style>
+
+<style>
+  .pub-item {
+    display: flex;            /* Enables side-by-side layout */
+    align-items: flex-start;  /* Aligns top of image with top of text */
+    margin-bottom: 30px;      /* Space between different papers */
+    border-bottom: 1px solid #eee; /* Optional thin separator line */
+    padding-bottom: 20px;
+  }
+
+  .pub-image {
+    flex: 0 0 150px;          /* FIXES width of image area to 150px */
+    margin-right: 25px;       /* Space between image and text */
+  }
+
+  .pub-image img {
+    width: 100%;              /* Forces image to fit the 150px box */
+    height: auto;
+    border: 1px solid #ddd;   /* Optional thin border around image */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1); /* Optional shadow for depth */
+  }
+
+  .pub-details {
+    flex: 1;                  /* Text takes up all remaining space */
+  }
+
+  .pub-details p {
+    margin: 0 0 8px 0;        /* Controls spacing between lines of text */
+  }
+</style>

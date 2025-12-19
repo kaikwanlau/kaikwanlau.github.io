@@ -1,0 +1,31 @@
+main:
+  - title: "About Me"
+    url: /#me
+
+  - title: "News"
+    url: /#news
+
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Honors"
+    url: /#honors
+
+  - title: "Education"
+    url: /#education
+
+  - title: "Internship"
+    url: /#internship
+    
+  # You can keep specific external links if you want, like CV
+  - title: "CV"
+    url: "https://kaikwanlau.github.io/files/CV_Kaikwan_Lau.pdf"
+
+  - title: "Art"
+    url: /art/
+
+  - title: "Gallery"
+    url: /gallery/
+    
+  # - title: "CV"
+  #   url: /cv-json/
