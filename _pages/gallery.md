@@ -15,9 +15,7 @@ author_profile: true
   }
   
   .grid-item {
-    /* CALCULATION: (100% width - 40px total gap) / 3 items 
-       This forces exactly 3 items per row.
-    */
+    /* DESKTOP: 3 items per row */
     flex: 0 0 calc((100% - 40px) / 3);
     
     background: #fff;
@@ -30,27 +28,31 @@ author_profile: true
     box-sizing: border-box;
   }
 
-  /* Tablet: 2 items per row */
+  /* TABLET & MOBILE: 2 items per row (Looks much better on iPhone) */
   @media (max-width: 768px) {
-    .grid-item { flex: 0 0 calc((100% - 20px) / 2); }
-  }
-  
-  /* Phone: 1 item per row */
-  @media (max-width: 480px) {
-    .grid-item { flex: 0 0 100%; }
+    .image-grid { gap: 10px; } /* Smaller gap on phone */
+    
+    .grid-item {
+      /* (100% - 10px gap) / 2 items */
+      flex: 0 0 calc((100% - 10px) / 2);
+      padding: 5px; /* Smaller padding on phone */
+    }
   }
 
   .grid-item:hover {
     transform: translateY(-3px);
   }
 
-  /* --- UNIFORM IMAGE SIZE --- */
+  /* --- THE SQUARE FIX --- */
   .grid-item img {
     width: 100%;
-    height: 250px;      /* Fixed height for perfect alignment */
-    object-fit: cover;  /* Crops excess edges so image doesn't stretch */
+    
+    /* MODERN MAGIC: This forces a perfect square shape always */
+    aspect-ratio: 1 / 1; 
+    object-fit: cover; /* Crops the image to fit the square */
+    
     border-radius: 4px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     display: block;
   }
 
@@ -60,7 +62,6 @@ author_profile: true
     font-weight: 600;
   }
   
-  /* Section Headers */
   h2 {
     margin-top: 30px;
     border-bottom: 1px solid #eee;
@@ -72,8 +73,8 @@ author_profile: true
 
 ## Academic Profile
 <div class="image-grid" style="justify-content: center;">
-  <div class="grid-item" style="flex: 0 0 300px;">
-    <img src="/images/professional2_square.jpg" alt="Academic Profile">
+  <div class="grid-item" style="max-width: 300px; flex: 0 0 300px;">
+    <img src="/images/professional2_square.jpg" alt="Academic Profile" style="object-fit: contain;">
     <div class="grid-caption">Academic Profile</div>
   </div>
 </div>
@@ -87,7 +88,7 @@ author_profile: true
   
   <div class="grid-item">
     <img src="/images/group_presentation.jpg" alt="Research Presentation">
-    <div class="grid-caption">Weekly Research Group Presentation</div>
+    <div class="grid-caption">Research Group Presentation</div>
   </div>
 
   <div class="grid-item">
@@ -99,12 +100,12 @@ author_profile: true
 ## Life & Travels
 <div class="image-grid">
   <div class="grid-item">
-    <img src="/images/japan_square.jpg" alt="Japan Exchange">
+    <img src="/images/japan_square.jpeg" alt="Japan Exchange">
     <div class="grid-caption">Travelling in Tokyo</div>
   </div>
   
   <div class="grid-item">
     <img src="/images/mm2024_sqaure.jpg" alt="Magical Mirai">
-    <div class="grid-caption">My favorite character in Magical Mirai 2024 (Osaka)</div>
+    <div class="grid-caption">My Favorite Charater in Magical Mirai 2024</div>
   </div>
 </div>
