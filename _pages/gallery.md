@@ -86,12 +86,12 @@ author_profile: true
   </div>
   
   <div class="grid-item">
-    <img src="/images/group_presentation.jpeg" alt="Research Presentation">
+    <img src="/images/group_presentation.jpg" alt="Research Presentation">
     <div class="grid-caption">Weekly Research Group Presentation</div>
   </div>
 
   <div class="grid-item">
-    <img src="/images/visiting_scholar.jpg" alt="Visiting Scholar at UWaterloo">
+    <img src="/images/visiting_scholar.jpeg" alt="Visiting Scholar at UWaterloo">
     <div class="grid-caption">Visiting Scholar at University of Waterloo</div>
   </div>
 </div>
