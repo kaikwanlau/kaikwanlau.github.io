@@ -73,7 +73,7 @@ author_profile: true
 ## Academic Profile
 <div class="image-grid" style="justify-content: center;">
   <div class="grid-item" style="flex: 0 0 300px;">
-    <img src="/images/professional2_square.jpg" alt="Academic Profile" style="object-fit: contain;">
+    <img src="/images/professional2_square.jpg" alt="Academic Profile">
     <div class="grid-caption">Academic Profile</div>
   </div>
 </div>
@@ -86,7 +86,7 @@ author_profile: true
   </div>
   
   <div class="grid-item">
-    <img src="/images/group_presentation.jpeg" alt="Research Presentation" style="object-position: top center;">
+    <img src="/images/group_presentation.jpeg" alt="Research Presentation">
     <div class="grid-caption">Weekly Research Group Presentation</div>
   </div>
 
