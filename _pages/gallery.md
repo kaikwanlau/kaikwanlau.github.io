@@ -100,7 +100,7 @@ author_profile: true
 ## Life & Travels
 <div class="image-grid">
   <div class="grid-item">
-    <img src="/images/japan_square.jpeg" alt="Japan Exchange">
+    <img src="/images/japan_square.jpg" alt="Travelling in Tokyo">
     <div class="grid-caption">Travelling in Tokyo</div>
   </div>
   
