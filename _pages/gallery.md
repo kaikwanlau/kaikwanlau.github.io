@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Gallery"
+title: "Photo Gallery"
 permalink: /gallery/
 author_profile: true
 ---
 
 <style>
-  /* 1. Grid Container */
+  /* --- GRID LAYOUT --- */
   .image-grid {
     display: flex;
     flex-wrap: wrap;
@@ -14,10 +14,12 @@ author_profile: true
     margin-bottom: 40px;
   }
   
-  /* 2. Individual Items */
   .grid-item {
-    flex: 1 0 250px; /* Min width 250px */
-    max-width: 400px;
+    /* CALCULATION: (100% width - 40px total gap) / 3 items 
+       This forces exactly 3 items per row.
+    */
+    flex: 0 0 calc((100% - 40px) / 3);
+    
     background: #fff;
     padding: 10px;
     border: 1px solid #eee;
@@ -25,37 +27,56 @@ author_profile: true
     box-shadow: 0 2px 5px rgba(0,0,0,0.05);
     text-align: center;
     transition: transform 0.2s;
+    box-sizing: border-box;
+  }
+
+  /* Tablet: 2 items per row */
+  @media (max-width: 768px) {
+    .grid-item { flex: 0 0 calc((100% - 20px) / 2); }
+  }
+  
+  /* Phone: 1 item per row */
+  @media (max-width: 480px) {
+    .grid-item { flex: 0 0 100%; }
   }
 
   .grid-item:hover {
-    transform: translateY(-3px); /* Subtle lift effect */
+    transform: translateY(-3px);
   }
 
-  /* 3. The Images */
+  /* --- UNIFORM IMAGE SIZE --- */
   .grid-item img {
     width: 100%;
-    height: auto;
+    height: 250px;      /* Fixed height for perfect alignment */
+    object-fit: cover;  /* Crops excess edges so image doesn't stretch */
     border-radius: 4px;
-    margin-bottom: 8px;
+    margin-bottom: 10px;
+    display: block;
   }
 
-  /* 4. Captions */
   .grid-caption {
     font-size: 0.9em;
     color: #555;
     font-weight: 600;
   }
+  
+  /* Section Headers */
+  h2 {
+    margin-top: 30px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    color: #333;
+    clear: both;
+  }
 </style>
 
-## Academic & Professional
-<div class="image-grid">
-
-  <div class="grid-item">
-    <img src="/images/professional2_square.jpg" alt="Professional Headshot">
+## Academic Profile
+<div class="image-grid" style="justify-content: center;">
+  <div class="grid-item" style="flex: 0 0 300px;">
+    <img src="/images/professional2_square.jpg" alt="Academic Profile" style="object-fit: contain;">
     <div class="grid-caption">Academic Profile</div>
   </div>
-
-  </div>
+</div>
 
 ## Research & International Experience
 <div class="image-grid">
@@ -65,28 +86,25 @@ author_profile: true
   </div>
   
   <div class="grid-item">
-    <img src="/images/visiting_scholar.jpeg" alt="University of Waterloo">
-    <div class="grid-caption">Visiting Scholar at University of Waterloo</div>
-  </div>
-
-  <div class="grid-item">
-    <img src="/images/group_presentation.jpg" alt="Research Presentation">
+    <img src="/images/group_presentation.jpeg" alt="Research Presentation" style="object-position: top center;">
     <div class="grid-caption">Weekly Research Group Presentation</div>
   </div>
 
+  <div class="grid-item">
+    <img src="/images/visiting_scholar.jpg" alt="Visiting Scholar at UWaterloo">
+    <div class="grid-caption">Visiting Scholar at University of Waterloo</div>
+  </div>
 </div>
 
 ## Life & Travels
 <div class="image-grid">
-
   <div class="grid-item">
-    <img src="/images/japan_square.jpg" alt="Travel in Japan">
-    <div class="grid-caption">Travelling in Tokyo, photo taken by Hei</div>
+    <img src="/images/japan_square.jpg" alt="Japan Exchange">
+    <div class="grid-caption">Travelling in Tokyo</div>
   </div>
-
+  
   <div class="grid-item">
-    <img src="/images/mm2024_sqaure.jpg" alt="Magical Mirai 2024">
-    <div class="grid-caption">My favorite charater in Magical Mirai 2024</div>
+    <img src="/images/mm2024_sqaure.jpg" alt="Magical Mirai">
+    <div class="grid-caption">My favorite character in Magical Mirai 2024 (Osaka)</div>
   </div>
-
 </div>
