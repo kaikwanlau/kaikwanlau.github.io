@@ -57,6 +57,25 @@ author_profile: true
 
   </div>
 
+## Research & International Experience
+<div class="image-grid">
+  <div class="grid-item">
+    <img src="/images/lunch_with_justin.jpeg" alt="Lunch with Professor">
+    <div class="grid-caption">Lunch with Prof. Justin Wan</div>
+  </div>
+  
+  <div class="grid-item">
+    <img src="/images/visiting_scholar.jpeg" alt="University of Waterloo">
+    <div class="grid-caption">Visiting Scholar at University of Waterloo</div>
+  </div>
+
+  <div class="grid-item">
+    <img src="/images/group_presentation.jpg" alt="Research Presentation">
+    <div class="grid-caption">Weekly Research Group Presentation</div>
+  </div>
+
+</div>
+
 ## Life & Travels
 <div class="image-grid">
 
