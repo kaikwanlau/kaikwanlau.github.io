@@ -1,12 +1,20 @@
 {% include base_path %}
 
 <style>
-  /* This finds the old class and makes it invisible */
+  /* Kills the 'Follow: Github / Feed' buttons */
+  .page__footer-follow {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    opacity: 0 !important;
+  }
+
+  /* Kills the old 'Powered by...' text */
   .page__footer-copyright {
     display: none !important;
   }
 </style>
 
-<div class="my-custom-footer" style="text-align: center; width: 100%; padding: 30px 0; color: #777; font-size: 0.85em;">
+<div class="my-custom-clean-footer" style="text-align: center; width: 100%; padding: 30px 0; color: #777; font-size: 0.85em;">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. All rights reserved.
 </div>
