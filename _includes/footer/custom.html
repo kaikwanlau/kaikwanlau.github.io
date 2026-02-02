@@ -1,33 +1,12 @@
-<style>
-  /* 1. Hide the old ugly text */
-  .page__footer-copyright {
-    visibility: hidden; /* Hides everything in the footer */
-    position: relative;
-    height: 50px;
-  }
-  
-  /* 2. Hide the links (Jekyll / AcademicPages / Feed) */
-  .page__footer-copyright a {
-    display: none !important;
-  }
+{% include base_path %}
 
-  /* 3. Re-write your name cleanly on top */
-  .page__footer-copyright:after {
-    visibility: visible; /* Shows ONLY this new text */
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    content: "© 2026 Kai-kwan Lau. All rights reserved."; /* YOUR TEXT HERE */
-    text-align: center;
-    color: #999; /* Professional Grey */
-    font-size: 0.9em;
-  }
-  
-  /* 4. Hide the 'Follow' and 'Feed' section if it still appears */
-  .page__footer-follow {
+<style>
+  /* This finds the old class and makes it invisible */
+  .page__footer-copyright {
     display: none !important;
   }
 </style>
 
-<div class="page__footer-copyright"></div>
+<div class="my-custom-footer" style="text-align: center; width: 100%; padding: 30px 0; color: #777; font-size: 0.85em;">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. All rights reserved.
+</div>
