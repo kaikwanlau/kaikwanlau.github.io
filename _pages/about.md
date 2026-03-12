@@ -31,7 +31,7 @@ My research focuses on Generative AI and Computational Biology. Specifically, I 
       <em><strong>Kaikwan Lau</strong> </em>
     </p>
     <p>
-      <em>ArXiv Preprint</em>, 2026.
+      <em>Knowledge Commons Preprint</em>, 2026.
     </p>
     <p>
       [ <a href="https://doi.org/10.17613/yd6ys-m6e87">PDF</a> ]
