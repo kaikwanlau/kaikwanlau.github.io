@@ -15,7 +15,7 @@ My research focuses on Generative AI and Computational Biology. Specifically, I 
 ## News <a id="news"></a>
 
 - Mar 2026: Our paper "Are Vocaloid Songs Getting Denser? A Longitudinal Audio Analysis of 1,900 Hatsune Miku Songs (2007--2025)" is available on [Knowledge Commons](https://doi.org/10.17613/yd6ys-m6e87).
-- Nov 2025: Our paper "Geometric and Statistical Analysis of Avian Skull Morphology" is available on [ArXiv](https://arxiv.org/abs/2511.06426).
+- Nov 2025: Our paper "Robust Parametric Estimation of Avian Cranial Morphology" is available on [ArXiv](https://arxiv.org/abs/2511.06426).
 - Nov 2025: Our paper "Efficient Score Pre-computation for Diffusion Models via Cross-Matrix Krylov Projection" is available on [ArXiv](https://arxiv.org/abs/2511.17634).
 
 ## Publications & Preprints <a id="publications"></a>
@@ -49,7 +49,7 @@ My research focuses on Generative AI and Computational Biology. Specifically, I 
 
   <div class="pub-details">
     <p>
-      <strong>Geometric and Statistical Analysis of Avian Skull Morphology</strong><br>
+      <strong>Robust Parametric Estimation of Avian Cranial Morphology</strong><br>
       <em><strong>Kaikwan Lau</strong> and Gary P. T. Choi</em>
     </p>
     <p>
