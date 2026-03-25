@@ -96,11 +96,12 @@ My research focuses on Generative AI and Computational Biology. Specifically, I 
 
 ## Education <a id="education"></a>
 
-- 2022.08 – 2026.07 (Expected): B.Sc. in Mathematics, The Chinese University of Hong Kong
+- 2022.08 – 2028.07: MPhil in Mathematics, The Chinese University of Hong Kong
+- 2022.08 – 2026.07: B.Sc. in Mathematics, The Chinese University of Hong Kong
 - 2021.08 – 2021.12: Science (Group A) with Extended Major in Artificial Intelligence, The Hong Kong University of Science and Technology
 
 ## Internship & jobs <a id="internship"></a>
 
-- 2026.02 - 2026.04: Lecturer, University of Wollongong College Hong Kong (UOWCHK), Part of the University of Wollongong (Australia)
+- 2026.02 - 2026.04: Lecturer, University of Wollongong College Hong Kong, Part of the University of Wollongong (Australia)
 - 2025.06 - 2025.08: Visiting Scholar, University of Waterloo (Supervisor: [Prof. Justin Wan](https://uwaterloo.ca/current-graduate-students/contacts/justin-wan))
 - 2024.08 - 2024.10: Research Assistant, The Education University of Hong Kong (Supervisor: [Prof. Anthony Suen](https://www.eduhk.hk/mit/en/staff/acksuen))
