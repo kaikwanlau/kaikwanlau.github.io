@@ -86,7 +86,6 @@ My research focuses on Generative AI and Computational Biology. Specifically, I 
 
 ## Honors & Awards <a id="honors"></a>
 
-- 2025 - Faculty Exchange Scholarship Scheme 2026
 - 2025 - Yasumoto International Exchange Scholarships
 - 2025 - 1978 Mathematics Alumnus Li Sze-lim Scholarship
 - 2022 - Faculty admission scholarship by Faculty of Science, CUHK
@@ -96,7 +95,7 @@ My research focuses on Generative AI and Computational Biology. Specifically, I 
 
 ## Education <a id="education"></a>
 
-- 2022.08 – 2028.07: MPhil in Mathematics, The Chinese University of Hong Kong
+- 2022.08 – 2028.07: M.Phil in Mathematics, The Chinese University of Hong Kong
 - 2022.08 – 2026.07: B.Sc. in Mathematics, The Chinese University of Hong Kong
 - 2021.08 – 2021.12: Science (Group A) with Extended Major in Artificial Intelligence, The Hong Kong University of Science and Technology
 
