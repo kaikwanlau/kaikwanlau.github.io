@@ -14,6 +14,8 @@ My research focuses on Generative AI and Computational Biology. Specifically, I 
 
 ## News <a id="news"></a>
 
+- Apr 2026: Our paper "Are Vocaloid Songs Getting Denser? A Longitudinal Audio Analysis of 1,900 Hatsune Miku Songs (2007–2025)" has been accepted for a poster presentation at [146th Information Processing Society of Japan Special Interest Group on Music and Computer Information (IPSJ SIGMUS)](https://sigmus.jp/)!
+- Mar 2026: Our paper “Efficient Score Pre-computation for Diffusion Models via Cross-Matrix Krylov Projection” has been accepted to [International Conference on Pattern Recognition (ICPR) 2026](https://icpr2026.org/)!
 - Mar 2026: Our paper "Are Vocaloid Songs Getting Denser? A Longitudinal Audio Analysis of 1,900 Hatsune Miku Songs (2007--2025)" is available on [Knowledge Commons](https://doi.org/10.17613/yd6ys-m6e87).
 - Nov 2025: Our paper "Robust Parametric Estimation of Avian Cranial Morphology" is available on [ArXiv](https://arxiv.org/abs/2511.06426).
 - Nov 2025: Our paper "Efficient Score Pre-computation for Diffusion Models via Cross-Matrix Krylov Projection" is available on [ArXiv](https://arxiv.org/abs/2511.17634).
@@ -31,7 +33,7 @@ My research focuses on Generative AI and Computational Biology. Specifically, I 
       <em><strong>Kaikwan Lau</strong> </em>
     </p>
     <p>
-      <em>Knowledge Commons Preprint</em>, 2026.
+      <em>Accepted to the 146th Information Processing Society of Japan Special Interest Group on Music and Computer Information (IPSJ SIGMUS)</em>, 2026.
     </p>
     <p>
       [ <a href="https://doi.org/10.17613/yd6ys-m6e87">PDF</a> ]
@@ -75,7 +77,7 @@ My research focuses on Generative AI and Computational Biology. Specifically, I 
       <em><strong>Kaikwan Lau</strong>, Andrew S. Na, and Justin W. L. Wan</em>
     </p>
     <p>
-      <em>ArXiv Preprint</em>, 2025.
+      <em>Accepted to the 28th International Conference on Pattern Recognition (ICPR)</em>, 2026.
     </p>
     <p>
       [ <a href="https://arxiv.org/pdf/2511.17634">PDF</a> ]
