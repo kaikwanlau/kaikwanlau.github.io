@@ -8,9 +8,11 @@ redirect_from:
 ---
 ## About Me <a id="me"></a>
 
-I am an undergraduate researcher in the Department of Mathematics at The Chinese University of Hong Kong (CUHK).  I am currently a Research Assistant in the research group led by [Prof. Gary Choi](https://www.math.cuhk.edu.hk/~ptchoi/index.html).
+Hi, I am Kai-kwan Lau. I am up-coming m.phil student at the Chinese University of Hong Kong, supervised by [Prof. Gary Choi](https://www.math.cuhk.edu.hk/~ptchoi/index.html).
 
-My research focuses on Generative AI and Computational Biology. Specifically, I work on accelerating score-based diffusion models using numerical methods and quantifying complex biological shapes through geometric analysis.  I recently served as a Visiting Scholar at the University of Waterloo under the supervision of [Prof. Justin Wan](https://uwaterloo.ca/current-graduate-students/contacts/justin-wan).
+My academic research focuses on generative AI and quantitative analysis. Outside of my academic research, I believe in bringing the same level of focus and dedication to my personal interests. I have a strong passion for competitive gaming and have previously reached the Challenger tier in League of Legends. I also love exploring new cultures and experiences. I recently completed a music conference in Japan and enjoy attending events like Magical Mirai. 
+
+Feel free to check out my [Publications](/publications/) to read my latest work, or visit my [Photo Gallery](/gallery/) to see some snapshots from my time at UWaterloo, my research presentations, and my travels.
 
 ## News <a id="news"></a>
 
