@@ -109,3 +109,9 @@ author_profile: true
     <div class="grid-caption">My Favorite Charater in Magical Mirai 2024</div>
   </div>
 </div>
+
+  <div class="grid-item">
+    <img src="/images/lol_LA.jpg" alt="Riot Games HQ">
+    <div class="grid-caption">Visiting Riot Games in Los Angeles</div>
+  </div>
+</div>
