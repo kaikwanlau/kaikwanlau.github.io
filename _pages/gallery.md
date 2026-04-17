@@ -108,7 +108,6 @@ author_profile: true
     <img src="/images/mm2024_sqaure.jpg" alt="Magical Mirai">
     <div class="grid-caption">My Favorite Charater in Magical Mirai 2024</div>
   </div>
-</div>
 
   <div class="grid-item">
     <img src="/images/lol_LA,jpeg.jpg" alt="Riot Games HQ">
