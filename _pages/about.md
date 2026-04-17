@@ -12,7 +12,7 @@ Hi, I am Kai-kwan Lau. I am up-coming m.phil student at the Chinese University o
 
 My academic research focuses on generative AI and quantitative analysis. Outside of my academic research, I believe in bringing the same level of focus and dedication to my personal interests. I have a strong passion for competitive gaming and have previously reached the Challenger tier in League of Legends. I also love exploring new cultures and experiences. I recently completed a music conference in Japan and enjoy attending events like Magical Mirai. 
 
-Feel free to check out my [Publications](/publications/) to read my latest work, or visit my [Photo Gallery](/gallery/) to see some snapshots from my time at UWaterloo, my research presentations, and my travels.
+Feel free to check out my Publications to read my latest work, or visit my [Photo Gallery](/gallery/) to see some snapshots from my time at UWaterloo, my research presentations, and my travels.
 
 ## News <a id="news"></a>
 
