@@ -111,7 +111,7 @@ author_profile: true
 </div>
 
   <div class="grid-item">
-    <img src="/images/lol_LA.jpeg" alt="Riot Games HQ">
+    <img src="/images/lol_LA,jpeg.jpg" alt="Riot Games HQ">
     <div class="grid-caption">Visiting Riot Games in Los Angeles</div>
   </div>
 </div>
