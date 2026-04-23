@@ -105,6 +105,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
 ## Internship & jobs <a id="internship"></a>
 
+- 2026.05 - 2026.07: Student Researcher (NVAITC-MATH4AI Summer Student Ambassador Program), NVIDIA AI Technology Center
 - 2026.02 - 2026.04: Lecturer, University of Wollongong College Hong Kong, Part of the University of Wollongong (Australia)
 - 2025.06 - 2025.08: Visiting Scholar, University of Waterloo (Supervisor: [Prof. Justin Wan](https://uwaterloo.ca/current-graduate-students/contacts/justin-wan))
 - 2024.08 - 2024.10: Research Assistant, The Education University of Hong Kong (Supervisor: [Prof. Anthony Suen](https://www.eduhk.hk/mit/en/staff/acksuen))
