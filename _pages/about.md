@@ -26,6 +26,28 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 <div class="pub-item">
   
   <div class="pub-image">
+    <img src="/images/PhyloSDF.pdf" alt="PhyloSDF">
+  </div>
+
+  <div class="pub-details">
+    <p>
+      <strong>PhyloSDF: Phylogenetically-Conditioned Neural Generation of 3D Skull Morphology via Residual Flow Matching</strong><br>
+      <em><strong>Kaikwan Lau</strong> and Gary P. T. Choi</em>
+    </p>
+    <p>
+      <em>ArXiv Preprint</em>, 2026.
+    </p>
+    <p>
+      [ <a href="https://arxiv.org/pdf/2604.25371">PDF</a> ]
+    </p>
+  </div>
+
+
+</div>
+
+<div class="pub-item">
+  
+  <div class="pub-image">
     <img src="/images/miku_audio.gif" alt="Miku Audio">
   </div>
 
