@@ -26,7 +26,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 <div class="pub-item">
   
   <div class="pub-image">
-    <img src="/images/PhyloSDF.pdf" alt="PhyloSDF">
+    <img src="/images/PhyloSDF.png" alt="PhyloSDF">
   </div>
 
   <div class="pub-details">
