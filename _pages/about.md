@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## About Me <a id="me"></a>
 
-Hi, I am Kai-kwan Lau. I am up-coming m.phil student at the Chinese University of Hong Kong, supervised by [Prof. Gary Choi](https://www.math.cuhk.edu.hk/~ptchoi/index.html).
+Hi, I am Kai-kwan Lau. I am an upcoming M.Phil student at the Chinese University of Hong Kong, supervised by [Prof. Gary Choi](https://www.math.cuhk.edu.hk/~ptchoi/index.html).
 
 My academic research focuses on generative AI and quantitative analysis. Outside of my academic research, I believe in bringing the same level of focus and dedication to my personal interests. I have a strong passion for competitive gaming and have previously reached the Challenger tier in League of Legends. I also love exploring new cultures and experiences. I recently completed a music conference in Japan and enjoy attending events like Magical Mirai. 
 
