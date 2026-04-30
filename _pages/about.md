@@ -109,9 +109,9 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
 ## Presentations & Conferences <a id="take"></a>
 
-- *[Upcoming] 146th Information Processing Society of Japan Special Interest Group on Music and Computer Information* | Tokyo, Japan
+- *[Upcoming] 146th Information Processing Society of Japan Special Interest Group on Music and Computer Information*, Tokyo, Japan
   - Poster Presentation: *Are Vocaloid Songs Getting Denser? A Longitudinal Audio Analysis of 1,900 Hatsune Miku Songs (2007–2025)*
-- *[Upcoming] 28th International Conference on Pattern Recognition* | Lyon, France
+- *[Upcoming] 28th International Conference on Pattern Recognition*, Lyon, France
   - Presentation: *Efficient Score Pre-computation for Diffusion Models via Cross-Matrix Krylov Projection*
 
 ## Honors & Awards <a id="honors"></a>
