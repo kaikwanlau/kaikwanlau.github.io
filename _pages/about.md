@@ -109,9 +109,9 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
 ## Presentations & Conferences <a id="Talks"></a>
 
-- *[Upcoming] 146th Information Processing Society of Japan Special Interest Group on Music and Computer Information*, Tokyo, Japan
+- *146th Information Processing Society of Japan Special Interest Group on Music and Computer Information*, Tokyo, Japan
   - Poster Presentation: *Are Vocaloid Songs Getting Denser? A Longitudinal Audio Analysis of 1,900 Hatsune Miku Songs (2007–2025)*
-- *[Upcoming] 28th International Conference on Pattern Recognition*, Lyon, France
+- *28th International Conference on Pattern Recognition*, Lyon, France
   - Presentation: *Efficient Score Pre-computation for Diffusion Models via Cross-Matrix Krylov Projection*
 
 ## Honors & Awards <a id="honors"></a>
@@ -131,7 +131,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
 ## Internship & jobs <a id="internship"></a>
 
-- 2026.05 - 2026.07: Student Researcher (NVAITC-MATH4AI Summer Student Ambassador Program), NVIDIA AI Technology Center
-- 2026.02 - 2026.04: Lecturer, University of Wollongong College Hong Kong, Part of the University of Wollongong (Australia)
+- 2026.05 - 2026.07: Student Researcher, NVIDIA AI Technology Center
+- 2026.02 - 2026.04: Lecturer, UOWCHK, Part of the University of Wollongong (Australia)
 - 2025.06 - 2025.08: Visiting Scholar, University of Waterloo (Supervisor: [Prof. Justin Wan](https://uwaterloo.ca/current-graduate-students/contacts/justin-wan))
 - 2024.08 - 2024.10: Research Assistant, The Education University of Hong Kong (Supervisor: [Prof. Anthony Suen](https://www.eduhk.hk/mit/en/staff/acksuen))
