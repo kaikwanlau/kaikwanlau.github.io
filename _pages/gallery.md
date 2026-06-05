@@ -82,6 +82,11 @@ author_profile: true
 ## Research & International Experience
 <div class="image-grid">
   <div class="grid-item">
+    <img src="/images/miku_poster_presentation.jpeg" alt="Research Presentation" style="object-position: top center;">
+    <div class="grid-caption">Poster Presentation at IPSJ SIGMUS in Tokyo</div>
+  </div>
+  
+  <div class="grid-item">
     <img src="/images/lunch_with_justin.jpeg" alt="Lunch with Professor">
     <div class="grid-caption">Lunch with Prof. Justin Wan</div>
   </div>
