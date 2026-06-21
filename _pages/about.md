@@ -16,6 +16,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
 ## News <a id="news"></a>
 
+- Jun 2026: Our work "Numerical Linear Algebra Approach to Efficient Score Computation for Diffusion Models" was presented by my co-author Andrew Na at the NASCA26 conference in Kalamata, Greece!
 - Apr 2026: Our paper "Are Vocaloid Songs Getting Denser? A Longitudinal Audio Analysis of 1,900 Hatsune Miku Songs (2007–2025)" has been accepted for a poster presentation at [146th Information Processing Society of Japan Special Interest Group on Music and Computer Information (IPSJ SIGMUS)](https://sigmus.jp/)!
 - Mar 2026: Our paper “Efficient Score Pre-computation for Diffusion Models via Cross-Matrix Krylov Projection” has been accepted to [International Conference on Pattern Recognition (ICPR) 2026](https://icpr2026.org/)!
 
@@ -113,6 +114,8 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
   - Poster Presentation: *Are Vocaloid Songs Getting Denser? A Longitudinal Audio Analysis of 1,900 Hatsune Miku Songs (2007–2025)*
 - *28th International Conference on Pattern Recognition*, Lyon, France
   - Presentation: *Efficient Score Pre-computation for Diffusion Models via Cross-Matrix Krylov Projection*
+_ *Analysis and Scientific Computation with Applications 2026*, Kalamata, Greece. (Presented by A. S. Na.)
+  - Presentation: *Numerical Linear Algebra Approach to Efficient Score Computation for Diffusion Models*
 
 ## Honors & Awards <a id="honors"></a>
 
