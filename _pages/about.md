@@ -16,6 +16,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
 ## News <a id="news"></a>
 
+- May 2026: I was honored to be featured in the CUHK Department of Mathematics Newsletter (Issue 22), where I shared my undergraduate research journey and advice for junior students. [Read the interview here](https://www.math.cuhk.edu.hk/sites/default/files/about-us/newsletter/newsletter2526.pdf).
 - Jun 2026: Our work "Numerical Linear Algebra Approach to Efficient Score Computation for Diffusion Models" was presented by my co-author Andrew Na at the Numerical Analysis and Scientific Computation with Applications [(NASCA26)](https://nasca26.org/) conference in Kalamata, Greece!
 - Apr 2026: Our paper "Are Vocaloid Songs Getting Denser? A Longitudinal Audio Analysis of 1,900 Hatsune Miku Songs (2007–2025)" has been accepted for a poster presentation at 146th Information Processing Society of Japan Special Interest Group on Music and Computer Information [(IPSJ SIGMUS)](https://sigmus.jp/)!
 - Mar 2026: Our paper “Efficient Score Pre-computation for Diffusion Models via Cross-Matrix Krylov Projection” has been accepted to International Conference on Pattern Recognition [(ICPR 2026)](https://icpr2026.org/)!
