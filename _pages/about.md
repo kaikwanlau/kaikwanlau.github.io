@@ -100,10 +100,10 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
       <em><strong>Kaikwan Lau</strong>, Andrew S. Na, and Justin W. L. Wan</em>
     </p>
     <p>
-      <em>Accepted to the 28th International Conference on Pattern Recognition (ICPR)</em>, 2026.
+      <em>Pattern Recognition (ICPR 2026), Lecture Notes in Computer Science (vol. 16813), pp. 697-712</em>, 2026.
     </p>
     <p>
-      [ <a href="https://arxiv.org/pdf/2511.17634">PDF</a> ]
+      [ <a href="https://link.springer.com/chapter/10.1007/978-3-032-31583-0_46">PDF</a> ]
     </p>
   </div>
 
