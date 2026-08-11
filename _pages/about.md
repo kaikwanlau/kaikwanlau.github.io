@@ -112,7 +112,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 ## Presentations & Conferences <a id="Talks"></a>
 
 - *CUHK OAL Exchange Sharing*, Hong Kong
-  - Invited Talk: *When Should a Maths Major Go Abroad? ([Slides](/files/Waterloo_Exchange_Sharing_LAU_Kai_Kwan_FINAL.pdf))*
+  - Invited Talk: *When Should a Maths Major Go Abroad?* [[ Slides ](/files/Waterloo_Exchange_Sharing_LAU_Kai_Kwan_FINAL.pdf)]
 - *Analysis and Scientific Computation with Applications 2026*, Kalamata, Greece. (Presented by A. S. Na.)
   - Presentation: *Numerical Linear Algebra Approach to Efficient Score Computation for Diffusion Models*
 - *146th Information Processing Society of Japan Special Interest Group on Music and Computer Information*, Tokyo, Japan
