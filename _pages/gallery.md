@@ -82,6 +82,11 @@ author_profile: true
 ## Research & International Experience
 <div class="image-grid">
   <div class="grid-item">
+    <img src="/images/emath_info_talk.jpg" alt="Emath Presentation" style="object-position: top center;">
+    <div class="grid-caption">CUHK OAL Exchange Sharing Presentation</div>
+  </div>
+  
+  <div class="grid-item">
     <img src="/images/miku_poster_presentation.jpeg" alt="Research Presentation" style="object-position: top center;">
     <div class="grid-caption">Poster Presentation at IPSJ SIGMUS in Tokyo</div>
   </div>
