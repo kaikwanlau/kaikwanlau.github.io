@@ -82,6 +82,11 @@ author_profile: true
 ## Research & International Experience
 <div class="image-grid">
   <div class="grid-item">
+    <img src="/images/ICPR_poster_presentation.jpg" alt="ICPR2026 Presentation" style="object-position: top center;">
+    <div class="grid-caption">Poster Presentation at ICPR2026 in Lyon, France</div>
+  </div>
+  
+  <div class="grid-item">
     <img src="/images/emath_info_talk.jpg" alt="Emath Presentation" style="object-position: top center;">
     <div class="grid-caption">CUHK OAL Exchange Sharing Presentation</div>
   </div>
