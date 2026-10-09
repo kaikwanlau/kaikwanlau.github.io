@@ -23,6 +23,31 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
 ## Publications & Preprints <a id="publications"></a>
 <div class="pub-item">
+
+  <div class="pub-image">
+    <a href="/files/weather_downscaling_summary.mp4" aria-label="Watch the weather downscaling paper summary">
+      <img src="/images/weather_downscaling.gif" alt="Weather Downscaling">
+    </a>
+  </div>
+
+  <div class="pub-details">
+    <p>
+      <strong>What Makes Diffusion-Based Weather Downscaling Work? A Controlled Comparison of CorrDiff- and Patch-DM-Style Models</strong><br>
+      <em><strong>Kaikwan Lau</strong> and Gary P. T. Choi</em>
+    </p>
+    <p>
+      <em>Accepted for an oral presentation at the NeurIPS 2026 Workshop on Tackling Climate Change with Machine Learning</em>, 2026.
+    </p>
+    <p>
+      [ <a href="https://openreview.net/pdf?id=vZHpPxoDmM">PDF</a> ]
+      [ <a href="https://neurips.cc/virtual/2026/loc/sydney/174474">NeurIPS</a> ]
+      [ <a href="/files/weather_downscaling_summary.mp4">Video</a> ]
+    </p>
+  </div>
+
+</div>
+
+<div class="pub-item">
   
   <div class="pub-image">
     <img src="/images/PhyloSDF.gif" alt="PhyloSDF">
