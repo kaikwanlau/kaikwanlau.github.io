@@ -25,7 +25,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 <div class="pub-item">
 
   <div class="pub-image">
-    <a href="/files/weather_downscaling_summary.mp4" aria-label="Watch the weather downscaling paper summary">
+    <a href="https://github.com/kaikwanlau/weather-downscaling/blob/main/4_media/research_overview.mp4" aria-label="Watch the weather downscaling paper summary on GitHub">
       <img src="/images/weather_downscaling.gif" alt="Weather Downscaling">
     </a>
   </div>
@@ -39,9 +39,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
       <em>Accepted for an oral presentation at the NeurIPS 2026 Workshop on Tackling Climate Change with Machine Learning</em>, 2026.
     </p>
     <p>
-      [ <a href="https://openreview.net/pdf?id=vZHpPxoDmM">PDF</a> ]
-      [ <a href="https://neurips.cc/virtual/2026/loc/sydney/174474">NeurIPS</a> ]
-      [ <a href="/files/weather_downscaling_summary.mp4">Video</a> ]
+      [ <a href="https://neurips.cc/virtual/2026/loc/sydney/174474">PDF</a> ]
     </p>
   </div>
 
