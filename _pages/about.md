@@ -26,7 +26,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
   <div class="pub-image">
     <a href="https://github.com/kaikwanlau/weather-downscaling/blob/main/4_media/research_overview.mp4" aria-label="Watch the weather downscaling paper summary on GitHub">
-      <img src="/images/weather_downscaling.gif" alt="Weather Downscaling">
+      <img src="/images/weather_downscaling.gif?v=research-overview" alt="Weather downscaling research overview">
     </a>
   </div>
 
@@ -36,7 +36,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
       <em><strong>Kaikwan Lau</strong> and Gary P. T. Choi</em>
     </p>
     <p>
-      <em>Accepted for an oral presentation at the NeurIPS 2026 Workshop on Tackling Climate Change with Machine Learning</em>, 2026.
+      <em>Proceedings of the Tackling Climate Change with Machine Learning Workshop at NeurIPS 2026, with consideration for the Best ML Innovation Award by the chair.</em>
     </p>
     <p>
       [ <a href="https://neurips.cc/virtual/2026/loc/sydney/174474">PDF</a> ]
