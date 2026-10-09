@@ -24,7 +24,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 ## Publications & Preprints <a id="publications"></a>
 <div class="pub-item">
 
-  <div class="pub-image">
+  <div class="pub-image pub-image--weather">
     <a href="https://github.com/kaikwanlau/weather-downscaling/blob/main/4_media/research_overview.mp4" aria-label="Watch the weather downscaling paper summary on GitHub">
       <img src="/images/weather_downscaling.gif?v=research-overview" alt="Weather downscaling research overview">
     </a>
