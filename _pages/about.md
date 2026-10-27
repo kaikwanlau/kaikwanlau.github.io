@@ -93,7 +93,9 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 <div class="pub-item">
   
   <div class="pub-image">
-    <img src="/images/avian_skull.gif" alt="Avian Skull Analysis">
+    <a href="/files/avian-skull-demo.mp4" aria-label="Watch the avian cranial morphology paper demonstration">
+      <img src="https://raw.githubusercontent.com/kaikwanlau/skull-morphology/main/demo.gif" alt="Avian skull demonstration showing bounding boxes, orbital sphere fitting and braincase ellipsoid fitting">
+    </a>
   </div>
 
   <div class="pub-details">
