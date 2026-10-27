@@ -49,7 +49,9 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 <div class="pub-item">
   
   <div class="pub-image">
-    <img src="/images/PhyloSDF.gif" alt="PhyloSDF">
+    <a href="/files/phylosdf-demo.gif" aria-label="Watch the PhyloSDF paper demonstration">
+      <img src="/files/phylosdf-demo.gif" alt="PhyloSDF demonstration of phylogenetically guided 3D skull generation">
+    </a>
   </div>
 
   <div class="pub-details">
