@@ -48,7 +48,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
 <div class="pub-item">
   
-  <div class="pub-image">
+  <div class="pub-image pub-image--skull">
     <a href="/files/phylosdf-demo.gif" aria-label="Watch the PhyloSDF paper demonstration">
       <img src="/files/phylosdf-demo.gif" alt="PhyloSDF demonstration of phylogenetically guided 3D skull generation">
     </a>
@@ -94,7 +94,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
 <div class="pub-item">
   
-  <div class="pub-image">
+  <div class="pub-image pub-image--skull">
     <a href="/files/avian-skull-demo.mp4" aria-label="Watch the avian cranial morphology paper demonstration">
       <img src="https://raw.githubusercontent.com/kaikwanlau/skull-morphology/main/demo.gif" alt="Avian skull demonstration showing bounding boxes, orbital sphere fitting and braincase ellipsoid fitting">
     </a>
