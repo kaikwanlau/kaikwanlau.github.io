@@ -72,7 +72,9 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 <div class="pub-item">
   
   <div class="pub-image">
-    <img src="/images/miku_audio.gif" alt="Miku Audio">
+    <a href="/files/vocaloid-denser.gif" aria-label="Watch the Vocaloid song density paper demonstration">
+      <img src="/files/vocaloid-denser.gif" alt="Vocaloid song density research demonstration">
+    </a>
   </div>
 
   <div class="pub-details">
@@ -118,7 +120,9 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 <div class="pub-item">
   
   <div class="pub-image">
-    <img src="/images/diffusion_score.gif" alt="Diffusion Models">
+    <a href="/files/krylov_projection_PDF.gif" aria-label="Watch the Krylov projection paper demonstration">
+      <img src="/files/krylov_projection_PDF.gif" alt="Cross-matrix Krylov projection for diffusion model score pre-computation">
+    </a>
   </div>
 
   <div class="pub-details">
