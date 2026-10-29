@@ -16,6 +16,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 
 ## News <a id="news"></a>
 
+- Oct 2026: Our paper “Robust Parametric Estimation of Avian Cranial Morphology” has been provisionally accepted for publication in [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)!
 - Oct 2026: Our paper “What Makes Diffusion-Based Weather Downscaling Work? A Controlled Comparison of CorrDiff- and Patch-DM-Style Models” has been accepted for an oral presentation at the [NeurIPS 2026 Workshop on Tackling Climate Change with Machine Learning (TCCML)](https://neurips.cc/Conferences/2026)!
 - May 2026: I was honored to be featured in the CUHK Department of Mathematics Newsletter (Issue 22), where I shared my undergraduate research journey and advice for junior students. [Read the interview here](https://www.math.cuhk.edu.hk/sites/default/files/about-us/newsletter/newsletter2526.pdf).
 - Apr 2026: Our paper "Are Vocaloid Songs Getting Denser? A Longitudinal Audio Analysis of 1,900 Hatsune Miku Songs (2007–2025)" has been accepted for a poster presentation at 146th Information Processing Society of Japan Special Interest Group on Music and Computer Information [(IPSJ SIGMUS)](https://sigmus.jp/)!
@@ -107,7 +108,7 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
       <em><strong>Kaikwan Lau</strong> and Gary P. T. Choi</em>
     </p>
     <p>
-      <em>ArXiv Preprint</em>, 2025.
+      <em>PLOS Computational Biology</em> (provisionally accepted), 2026.
     </p>
     <p>
       [ <a href="https://arxiv.org/pdf/2511.06426">PDF</a> ]
