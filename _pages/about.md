@@ -159,8 +159,6 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
 - 2022 - Faculty admission scholarship by Faculty of Science, CUHK
 - 2021 - Sir Edward Youde Memorial Prize
 
-*Full list of 14+ scholarships and academic prizes available in [my CV](https://kaikwanlau.github.io/files/CV_Kaikwan_Lau.pdf).*
-
 ## Education <a id="education"></a>
 
 - 2026.08 – 2028.07: M.Phil in Mathematics, The Chinese University of Hong Kong
