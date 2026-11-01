@@ -8,14 +8,14 @@ main:
   - title: "Publications"
     url: /#publications
 
+  - title: "Talks"
+    url: /#Talks
+
   - title: "Honors"
     url: /#honors
 
   - title: "Education"
     url: /#education
-
-  - title: "Talks"
-    url: /#Talks
 
   - title: "Internship"
     url: /#internship
