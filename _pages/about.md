@@ -108,10 +108,10 @@ Feel free to check out my Publications to read my latest work, or visit my [Phot
       <em><strong>Kaikwan Lau</strong> and Gary P. T. Choi</em>
     </p>
     <p>
-      <em>PLOS Computational Biology</em> (provisionally accepted), 2026.
+      <em>PLOS Computational Biology</em>, vol. 22, no. 11, e1014941, 2026.
     </p>
     <p>
-      [ <a href="https://arxiv.org/pdf/2511.06426">PDF</a> ]
+      [ <a href="https://doi.org/10.1371/journal.pcbi.1014941">PDF</a> ]
     </p>
   </div>
 
